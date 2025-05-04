@@ -3,5 +3,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
 
-  base: '/todolist/'
+  base: '/project-4/'
 })
